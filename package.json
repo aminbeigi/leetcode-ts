@@ -1,0 +1,10 @@
+{
+  "name": "leetcode-ts",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+}

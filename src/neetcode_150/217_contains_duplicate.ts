@@ -1,4 +1,4 @@
-function containsDuplicate1(nums: number[]): boolean {
+function containsDuplicate(nums: number[]): boolean {
     // TC: O(n)
     // SC: O(n)
     return new Set(nums).size !== nums.length;
